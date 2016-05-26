@@ -10,7 +10,11 @@ shiqi test5
 
 shiqi test7
 shiqi test8
+<<<<<<< HEAD
 
 shiqi test10
 shiqi test11
 shiqi test12
+
+shiqi test10
+
